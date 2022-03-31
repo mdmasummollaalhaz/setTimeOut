@@ -24,6 +24,52 @@ if ( ! defined( 'ABSPATH' ) ) {
 <link rel="profile" href="https://gmpg.org/xfn/11">
 
 
+<style>
+
+    /* Upsell Santé Page code start */
+	#uSSantSec1{
+        display: none;
+	}
+	#uSSantSec2{
+        display: none;
+	}
+	#uSSantSec3{
+        display: none;
+	}
+	#uSSantSec4{
+        display: none;
+	}
+	#uSSantSec5{
+        display: none;
+	}
+	#uSSantSec6{
+        display: none;
+	}
+	#uSSantSec7{
+        display: none;
+	}
+	#uSSantSec8{
+        display: none;
+	}
+	#uSSantSec9{
+        display: none;
+	}
+	#uSSantSec10{
+        display: none;
+	}
+	#uSSantSec11{
+        display: none;
+	}
+	#uSSantSec12{
+        display: none;
+	}
+	#uSSantSec13{
+        display: none;
+	}
+	
+	/*Upsell Santé Page code END*/
+</style>
+
 <?php wp_head(); ?>
 <?php astra_head_bottom(); ?>
 </head>
