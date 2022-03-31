@@ -1,0 +1,31 @@
+<html>
+   <body>
+    <div style="background: yellow;">
+        <div id="div1" style="display: none; background: red; height: 100px;">
+            Show a DIV after 15 seconds.
+        </div>
+        <div class="div3" style="display: none; background: darkmagenta; height: 100px;">
+            Show a DIV after 15 seconds.
+        </div>
+        <div id="div2" style="visibility: hidden;  background: green; height: 100px;">
+            Show a DIV after 30 seconds.
+        </div>
+    </div>
+   </body>
+   <script type="text/javascript">
+    function showDiv1() {
+      document.getElementById("div1").style.display = "block";
+    }
+    setTimeout("showDiv1()", 2000); // after 2 sec
+
+    function showDiv3() {
+      document.getElementsByClassName("div3").style.display = "block";
+    }
+    setTimeout("showDiv3()", 3000); // after 3 sec
+
+    function showDiv2() {
+      document.getElementById("div2").style.visibility = "visible";
+    }
+    setTimeout("showDiv2()", 10000); // after 10 secs
+   </script>
+</html>
