@@ -26,6 +26,7 @@ if ( ! defined( 'ABSPATH' ) ) {
 <style>
 
     /* Upsell Santé Page code start */
+    /*https://secret-terra-nova.fr/1-upsell-sante/*/
 	#uSSantSec1{
         display: none;
 	}
@@ -70,7 +71,8 @@ if ( ! defined( 'ABSPATH' ) ) {
 	
 	
 	/* Upsell Abondance Page code start */
-	/*20000*/
+	/*https://secret-terra-nova.fr/upsell-abondance/*/
+	
 	#uSAbondanceSec1{
         display: none;
     }
@@ -125,6 +127,8 @@ if ( ! defined( 'ABSPATH' ) ) {
     /* ************** Funnel principal Discount Flows ***************** */
     
     /* Upsell Santé Page code start */
+    /*https://secret-terra-nova.fr/2-upsell-sante/*/
+    
 	#uSSantDiscountSec1{
         display: none;
     }
@@ -170,6 +174,7 @@ if ( ! defined( 'ABSPATH' ) ) {
     
     
      /* Upsell Abondance Page code start */
+     /*https://secret-terra-nova.fr/2-upsell-abondance/*/
 	#uSAbondanceDiscountSec1{
         display: none;
     }
