@@ -23,7 +23,6 @@ if ( ! defined( 'ABSPATH' ) ) {
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <link rel="profile" href="https://gmpg.org/xfn/11">
 
-
 <style>
 
     /* Upsell Santé Page code start */
@@ -66,9 +65,161 @@ if ( ! defined( 'ABSPATH' ) ) {
 	#uSSantSec13{
         display: none;
 	}
-	
 	/*Upsell Santé Page code END*/
+	
+	
+	
+	/* Upsell Abondance Page code start */
+	/*20000*/
+	#uSAbondanceSec1{
+        display: none;
+    }
+    #uSAbondanceSec2{
+        display: none;
+    }
+    #uSAbondanceSec3{
+        display: none;
+    }
+    #uSAbondanceSec4{
+        display: none;
+    }
+    #uSAbondanceSec5{
+        display: none;
+    }
+    #uSAbondanceSec6{
+        display: none;
+    }
+    #uSAbondanceSec7{
+        display: none;
+    }
+    #uSAbondanceSec8{
+        display: none;
+    }
+    #uSAbondanceSec9{
+        display: none;
+    }
+    #uSAbondanceSec10{
+        display: none;
+    }
+    #uSAbondanceSec11{
+        display: none;
+    }
+    #uSAbondanceSec12{
+        display: none;
+    }
+    #uSAbondanceSec13{
+        display: none;
+    }
+    #uSAbondanceSec14{
+        display: none;
+    }
+    #uSAbondanceSec15{
+        display: none;
+    }
+    #uSAbondanceSec16{
+        display: none;
+    }
+    /* Upsell Abondance Page code END */
+    
+    
+    /* ************** Funnel principal Discount Flows ***************** */
+    
+    /* Upsell Santé Page code start */
+	#uSSantDiscountSec1{
+        display: none;
+    }
+    #uSSantDiscountSec2{
+        display: none;
+    }
+    #uSSantDiscountSec3{
+        display: none;
+    }
+    #uSSantDiscountSec4{
+        display: none;
+    }
+    #uSSantDiscountSec5{
+        display: none;
+    }
+    #uSSantDiscountSec6{
+        display: none;
+    }
+    #uSSantDiscountSec7{
+        display: none;
+    }
+    #uSSantDiscountSec8{
+        display: none;
+    }
+    #uSSantDiscountSec9{
+        display: none;
+    }
+    #uSSantDiscountSec10{
+        display: none;
+    }
+    #uSSantDiscountSec11{
+        display: none;
+    }
+    #uSSantDiscountSec12{
+        display: none;
+    }
+    #uSSantDiscountSec13{
+        display: none;
+    }
+    #uSSantDiscountSec14{
+        display: none;
+    }
+    
+    
+     /* Upsell Abondance Page code start */
+	#uSAbondanceDiscountSec1{
+        display: none;
+    }
+    #uSAbondanceDiscountSec2{
+        display: none;
+    }
+    #uSAbondanceDiscountSec3{
+        display: none;
+    }
+    #uSAbondanceDiscountSec4{
+        display: none;
+    }
+    #uSAbondanceDiscountSec5{
+        display: none;
+    }
+    #uSAbondanceDiscountSec6{
+        display: none;
+    }
+    #uSAbondanceDiscountSec7{
+        display: none;
+    }
+    #uSAbondanceDiscountSec8{
+        display: none;
+    }
+    #uSAbondanceDiscountSec9{
+        display: none;
+    }
+    #uSAbondanceDiscountSec10{
+        display: none;
+    }
+    #uSAbondanceDiscountSec11{
+        display: none;
+    }
+    #uSAbondanceDiscountSec12{
+        display: none;
+    }
+    #uSAbondanceDiscountSec13{
+        display: none;
+    }
+    #uSAbondanceDiscountSec14{
+        display: none;
+    }
+    #uSAbondanceDiscountSec15{
+        display: none;
+    }
+    #uSAbondanceDiscountSec16{
+        display: none;
+    }
 </style>
+
 
 <?php wp_head(); ?>
 <?php astra_head_bottom(); ?>
